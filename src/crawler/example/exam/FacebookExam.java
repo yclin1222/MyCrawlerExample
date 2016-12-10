@@ -34,7 +34,7 @@ public class FacebookExam {
 				.getFromJson(uri)
 				.select("data");
 		
-		String output = "id ,reactions";
+		String output = "id ,reactions\n";
 
 		// 遂筆處理
 		for( Element data: elems ){
