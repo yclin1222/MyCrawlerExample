@@ -20,7 +20,7 @@ import com.github.abola.crawler.CrawlerPack;
 public class FacebookExample {
 	
 	public static void main(String[] args) {
-		
+		//facebook練習-page
 		// 遠端資料路徑
 		// [query sample]
 		// search?fields=name,id,likes,talking_about_count&limit=1000&q=靠北&type=page
